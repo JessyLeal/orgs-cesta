@@ -31,3 +31,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+node_modules
+.expo
+
+# Expo
+
+.expo
+__generated__
+web-build
+bare-apps
